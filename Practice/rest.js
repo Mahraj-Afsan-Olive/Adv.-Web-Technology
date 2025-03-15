@@ -5,4 +5,4 @@ function sum(...args) {
   }
   
   let x = sum(4, 9, 16, 25, 29, 100, 66, 77);
-  console.log(x)
+  console.log(x);
